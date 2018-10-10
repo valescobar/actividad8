@@ -1,0 +1,48 @@
+body{
+    font-size: 12px;
+    margin: 0;
+}
+.imagenav{
+    height: 30px;
+}
+.seccion1 h1{
+    font-size: 45px;
+}
+.imgcarr{
+    width: 100%;
+}
+.seccion1{
+    width: 70%;
+    margin: auto;
+}
+.botoness1{
+    padding: 10px;
+}
+.carousel, .carousel-inner > .item {
+    height: 400px;
+}
+.carousel{
+    margin-top: 50px;
+}
+.seccion2{
+    padding-top: 50px;
+}
+.seccion2 h3{
+    font-size: 16px;
+}
+.seccion2 img{
+    width: 50%;
+    margin-top: 20px;
+}
+.center{
+    text-align: center;
+}
+.black{
+    background-color: black;
+    padding-top: 10px;
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+.container{
+    margin-bottom: 50px;
+}
